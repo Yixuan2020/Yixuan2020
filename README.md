@@ -1,6 +1,6 @@
 I’m @Yixuan2020
 
-Learning Python and plan to leran Java
+Learning Python and Java
 
 
 <!---
